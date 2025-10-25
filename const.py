@@ -1,2 +1,2 @@
-HOST = "a.b.c.d" # replace with correct IP address of server
+HOST = "192.168.1.11"
 PORT = "5678"
